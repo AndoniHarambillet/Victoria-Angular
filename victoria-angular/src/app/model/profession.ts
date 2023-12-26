@@ -1,5 +1,5 @@
 import { Strata } from './strata';
-export class Profession{
+export class Profession{// TODO: finish this model
   id:String = '';
   name:String ='';
   baseQOL:number = 0;
