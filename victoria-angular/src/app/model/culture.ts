@@ -1,6 +1,6 @@
-import { Ressource } from './ressource';
+import { ProductResource } from './product-resource';
 export class Culture{// TODO: finish this model
   id:String = '';
   name:String = '';
-  obsession:Ressource[] = [];
+  obsession:ProductResource[] = [];
 }
