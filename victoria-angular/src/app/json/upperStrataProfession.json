@@ -1,0 +1,22 @@
+{
+  "Professions": [
+    {
+      "Profession": "Aristocrats",
+      "Base SoL": 20,
+      "Wage multiplier": 6,
+      "Base Literacy target": "60%",
+      "Dependent income": 0.0,
+      "Special": "20% workforce ratio",
+      "strata": "Strata.upper"
+    },
+    {
+      "Profession": "Capitalists",
+      "Base SoL": 20,
+      "Wage multiplier": 6,
+      "Base Literacy target": "70%",
+      "Dependent income": 0.5,
+      "strata": "Strata.upper"
+    }
+  ],
+  "Default pop type": "Can always be hired (i.e. no qualifications)"
+}
