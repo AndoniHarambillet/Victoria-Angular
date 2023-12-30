@@ -7,7 +7,7 @@
       "Base Literacy target": "80%",
       "Dependent income": 0.5,
       "Special": "+50% Education access",
-      "strata": "Strata.middle"
+      "Strata": "Strata.middle"
     },
     {
       "Profession": "Bureaucrats",
@@ -16,7 +16,7 @@
       "Base Literacy target": "40%",
       "Dependent income": 0.5,
       "Special": "+50% Education access",
-      "strata": "Strata.middle"
+      "Strata": "Strata.middle"
     },
     {
       "Profession": "Clergymen",
@@ -25,7 +25,7 @@
       "Base Literacy target": "80%",
       "Dependent income": 0.5,
       "Special": "+50% Education access",
-      "strata": "Strata.middle"
+      "Strata": "Strata.middle"
     },
     {
       "Profession": "Engineers",
@@ -34,7 +34,7 @@
       "Base Literacy target": "80%",
       "Dependent income": 0.5,
       "Special": "+25% Education access",
-      "strata": "Strata.middle"
+      "Strata": "Strata.middle"
     },
     {
       "Profession": "Farmers",
@@ -42,7 +42,7 @@
       "Wage multiplier": 2,
       "Base Literacy target": "0%",
       "Dependent income": 0.5,
-      "strata": "Strata.middle"
+      "Strata": "Strata.middle"
     },
     {
       "Profession": "Officers",
@@ -50,7 +50,7 @@
       "Wage multiplier": 5,
       "Base Literacy target": "50%",
       "Dependent income": 0.5,
-      "strata": "Strata.middle"
+      "Strata": "Strata.middle"
     },
     {
       "Profession": "Shopkeepers",
@@ -58,7 +58,7 @@
       "Wage multiplier": 2,
       "Base Literacy target": "20%",
       "Dependent income": 0.5,
-      "strata": "Strata.middle"
+      "Strata": "Strata.middle"
     }
   ],
   "Default pop type": "Can always be hired (i.e. no qualifications)"

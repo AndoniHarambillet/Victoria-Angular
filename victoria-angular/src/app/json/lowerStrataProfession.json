@@ -7,7 +7,7 @@
       "Base Literacy target": "20%",
       "Dependent income": 0.5,
       "Special": "+25% Education access",
-      "strata": "Strate.lower"
+      "Strata": "Strata.lower"
     },
     {
       "Profession": "Laborers",
@@ -15,7 +15,7 @@
       "Wage multiplier": 1,
       "Base Literacy target": "0%",
       "Dependent income": 0.5,
-      "strata": "Strate.lower"
+      "Strata": "Strata.lower"
     },
     {
       "Profession": "Machinists",
@@ -23,7 +23,7 @@
       "Wage multiplier": 1.5,
       "Base Literacy target": "10%",
       "Dependent income": 0.5,
-      "strata": "Strate.lower"
+      "Strata": "Strata.lower"
     },
     {
       "Profession": "Peasants",
@@ -35,7 +35,7 @@
         "Consumption multiplied by ×0.1 before adding to state consumption",
         "Cannot become unemployed (changes to Laborers instead)"
       ],
-      "strata": "Strate.lower"
+      "Strata": "Strata.lower"
     },
     {
       "Profession": "Servicemen",
@@ -44,7 +44,7 @@
       "Base Literacy target": "0%",
       "Dependent income": 0.5,
       "Special": "Can always be hired (i.e. no qualifications)",
-      "strata": "Strate.lower"
+      "Strata": "Strata.lower"
     },
     {
       "Profession": "Slaves",
@@ -56,7 +56,7 @@
         "50% workforce ratio",
         "Needs are purchased by workplace"
       ],
-      "strata": "Strate.lower"
+      "Strata": "Strata.lower"
     }
   ],
   "Default pop type": "Can always be hired (i.e. no qualifications)"
