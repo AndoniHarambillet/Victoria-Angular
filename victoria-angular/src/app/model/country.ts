@@ -11,8 +11,12 @@ export class Country{// TODO: finish this model
   GDP:number = 0;
   rank:number = 0;
   literacy:number = 0;
+  innovation: number = 0;
+  technologySpread: number = 0;
   market:Market | undefined;
   ownedStates:State[] | undefined;
   totalPopulation:TotalPopulation | undefined;
   countryModifier: string = "";
+  constructor() {
+  }
 }
