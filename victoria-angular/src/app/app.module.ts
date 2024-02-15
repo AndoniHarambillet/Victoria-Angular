@@ -8,12 +8,14 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MainUiComponent } from './ui/main-ui/main-ui.component';
 import { JsonReaderModule } from "./json-reader/json-reader.module";
 import {HttpClientModule } from "@angular/common/http";
+import { CardsHandlerComponent } from './cards-handler/cards-handler.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CountryStatsDisplayComponent,
-    MainUiComponent
+    MainUiComponent,
+    CardsHandlerComponent
   ],
   imports: [
     BrowserModule,

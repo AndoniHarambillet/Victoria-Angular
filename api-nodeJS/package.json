@@ -1,0 +1,14 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "An API made using NodeJS used for VICTORIA project",
+  "main": "index.js",
+  "scripts": {
+    "test": "health"
+  },
+  "author": "a.harambillet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
