@@ -10,8 +10,6 @@ app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);
 })
 
-
-
 let count = 0;
 
 app.get('/api', (req, res) => {
@@ -22,3 +20,8 @@ app.post('/api', (req, res) => {
     ++count;
     res.json({count});
 });
+
+app.get('/traits', (req, res) => {
+    listTraits = "{}";
+    res.json({listTraits})
+})

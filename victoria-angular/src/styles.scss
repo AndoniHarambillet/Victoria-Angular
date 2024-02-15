@@ -1,6 +1,15 @@
+
+$color-primary: #F3AF4A;
+$color-secondary: #4A8DF3;
+$color-background: #eeeeea;
+
+
 html, body { height: 100%; }
 body {
   margin: 0;
   font-family: 'Playfair Display', serif !important;
-  background-color: #eeeeea;
+  background-color: $color-background;
+}
+.helpful{
+  background-color: $color-primary;
 }
